@@ -61,4 +61,4 @@ done.
 
 **Open the app launcher and search for "warn me"**
 
- Baseada em: https://github.com/maykbrito/insta-post-reminder
+based on: https://github.com/maykbrito/insta-post-reminder
